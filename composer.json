@@ -9,7 +9,20 @@
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^9.19",
         "laravel/sanctum": "^3.0",
-        "laravel/tinker": "^2.7"
+        "laravel/tinker": "^2.7",
+        "evilfreelancer/routeros-api-php": "^1.4",
+        "fideloper/proxy": "^4.0",
+        "google/apiclient": "^2.12",
+        "intervention/image": "^2.5",
+        "laravel/nexmo-notification-channel": "^2.5",
+        "mpdf/mpdf": "^8.1",
+        "nao-pon/flysystem-google-drive": "^1.1",
+        "niklasravnsborg/laravel-pdf": "^4.0",
+        "protonemedia/laravel-cross-eloquent-search": "^1.9",
+        "spatie/laravel-backup": "^6.16",
+        "stripe/stripe-php": "^7.111",
+        "swiftmailer/swiftmailer": "^6.3",
+        "yoeunes/toastr": "^1.2"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
